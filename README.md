@@ -5,6 +5,10 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > A comprehensive data science project analyzing customer behavior and predicting spending patterns in a supermarket loyalty program. Completed as part of the DataCamp Data Scientist Associate Practical Exam.
+>
+> ## 🔗 Project Link
+
+**[View Full Project on DataCamp](https://www.datacamp.com/datalab/w/41248a93-d2cc-4447-be5f-74b80e0cebee/print-notebook/notebook.ipynb)**
 
 ---
 
