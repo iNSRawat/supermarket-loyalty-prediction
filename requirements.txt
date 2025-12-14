@@ -1,0 +1,31 @@
+# Core Data Science Libraries
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
+
+# Model Persistence
+joblib>=1.0.0
+
+# Progress Bars (optional)
+tqdm>=4.62.0
+
+# Statistical Analysis (optional)
+scipy>=1.7.0
+statsmodels>=0.13.0
+
+# Data Quality
+missingno>=0.5.0
+
+# Utility
+python-dateutil>=2.8.0
