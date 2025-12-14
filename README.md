@@ -8,7 +8,8 @@
 >
 > ## 🔗 Project Link
 
-[<img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" height="28"/>](https://www.kaggle.com/code/nsrawat/google-analytics-data-cleaning-visualization)
+  [<img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" height="28"/>](https://www.kaggle.com/code/nsrawat/supermarket-loyalty-prediction)
+**[View Full Project on Jupiter Notebook](workspace/notebook.ipynb)**
 **[View Full Project on DataCamp](https://www.datacamp.com/datalab/w/41248a93-d2cc-4447-be5f-74b80e0cebee/print-notebook/notebook.ipynb)**
 
 ---
