@@ -324,7 +324,7 @@ Open `notebook.ipynb` to see the complete workflow from data loading to model de
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is part of a DataCamp practical exam.
 
 ---
 
