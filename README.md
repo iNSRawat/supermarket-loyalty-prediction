@@ -12,7 +12,7 @@
   
   [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)](workspace/notebook.ipynb)
 
-**[View Full Project on DataCamp](https://www.datacamp.com/datalab/w/41248a93-d2cc-4447-be5f-74b80e0cebee/print-notebook/notebook.ipynb)**
+**[View Full Project on DataCamp](https://www.datacamp.com/datalab/w/a843334a-56dc-40c8-91c9-512fe47f50a4)**
 
 ---
 
